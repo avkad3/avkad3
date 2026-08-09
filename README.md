@@ -1,11 +1,5 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Aditya%20Vijay%20Kumar&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20%26%20Backend%20Engineer&descAlignY=58&descSize=18" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:e0c3fc,50:8ec5fc,100:cfd9df&height=220&section=header&text=Aditya%20Vijay%20Kumar&fontSize=42&fontColor=1a1a1a&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20%26%20Backend%20Engineer&descAlignY=58&descSize=18" />
-  <img alt="header" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Aditya%20Vijay%20Kumar&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20%26%20Backend%20Engineer&descAlignY=58&descSize=18" />
-</picture>
-
 <a href="https://github.com/avkad3">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=90&lines=Building+forecasting+pipelines%2C+RAG+systems%2C+and+RL+agents;Go+%2B+Python+%2B+FastAPI+%2B+LangGraph;Currently%3A+prepping+for+AI%2FML+engineering+roles" alt="Typing SVG" />
 </a>
