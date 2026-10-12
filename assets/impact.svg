@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="190" viewBox="0 0 1200 190" role="img" aria-labelledby="t">
+  <title id="t">Impact at SAVIC Technologies: 34,000+ product-plant series forecast, 22% stock-out reduction, 94% semantic accuracy, 30% fewer overbooking incidents.</title>
+  <defs>
+    <style>
+      .mono { font-family: 'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace; }
+      .sans { font-family: 'Space Grotesk', 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif; }
+      .cell { opacity: 0; animation: up .8s cubic-bezier(.16,1,.3,1) forwards; }
+      .c2 { animation-delay: .1s } .c3 { animation-delay: .2s } .c4 { animation-delay: .3s }
+      @keyframes up { from { opacity: 0; transform: translateY(10px) } to { opacity: 1; transform: none } }
+      @media (prefers-reduced-motion: reduce) { .cell { animation: none; opacity: 1 } }
+    </style>
+  </defs>
+  <rect width="1200" height="190" rx="14" fill="#080808"/>
+  <rect x=".5" y=".5" width="1199" height="189" rx="13.5" fill="none" stroke="#222"/>
+  <g stroke="#222"><line x1="300" x2="300" y1="0" y2="190"/><line x1="600" x2="600" y1="0" y2="190"/><line x1="900" x2="900" y1="0" y2="190"/></g>
+
+  <g class="cell">
+    <text x="32" y="38" class="mono" font-size="11" fill="#5a5a5a">[01]</text>
+    <text x="32" y="112" class="sans" font-size="54" font-weight="600" letter-spacing="-2" fill="#f5f5f5">34,000<tspan fill="#3DF2A6">+</tspan></text>
+    <text x="32" y="144" class="mono" font-size="11.5" letter-spacing="1.6" fill="#f5f5f5">PRODUCT-PLANT SERIES</text>
+    <text x="32" y="164" class="mono" font-size="11" fill="#8a8a8a">multi-horizon forecasting</text>
+  </g>
+  <g class="cell c2">
+    <text x="332" y="38" class="mono" font-size="11" fill="#5a5a5a">[02]</text>
+    <text x="332" y="112" class="sans" font-size="54" font-weight="600" letter-spacing="-2" fill="#f5f5f5">22<tspan fill="#3DF2A6">%</tspan></text>
+    <text x="332" y="144" class="mono" font-size="11.5" letter-spacing="1.6" fill="#f5f5f5">STOCK-OUT REDUCTION</text>
+    <text x="332" y="164" class="mono" font-size="11" fill="#8a8a8a">TFT + LightGBM</text>
+  </g>
+  <g class="cell c3">
+    <text x="632" y="38" class="mono" font-size="11" fill="#5a5a5a">[03]</text>
+    <text x="632" y="112" class="sans" font-size="54" font-weight="600" letter-spacing="-2" fill="#f5f5f5">94<tspan fill="#3DF2A6">%</tspan></text>
+    <text x="632" y="144" class="mono" font-size="11.5" letter-spacing="1.6" fill="#f5f5f5">SEMANTIC ACCURACY</text>
+    <text x="632" y="164" class="mono" font-size="11" fill="#8a8a8a">RAG reconciliation agent</text>
+  </g>
+  <g class="cell c4">
+    <text x="932" y="38" class="mono" font-size="11" fill="#5a5a5a">[04]</text>
+    <text x="932" y="112" class="sans" font-size="54" font-weight="600" letter-spacing="-2" fill="#f5f5f5">30<tspan fill="#3DF2A6">%</tspan></text>
+    <text x="932" y="144" class="mono" font-size="11.5" letter-spacing="1.6" fill="#f5f5f5">FEWER OVERBOOKINGS</text>
+    <text x="932" y="164" class="mono" font-size="11" fill="#8a8a8a">RCAE conflict engine</text>
+  </g>
+</svg>

@@ -1,177 +1,142 @@
-<div align="center">
-
-<a href="https://github.com/avkad3">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=90&lines=Building+forecasting+pipelines%2C+RAG+systems%2C+and+RL+agents;Go+%2B+Python+%2B+FastAPI+%2B+LangGraph;Currently%3A+prepping+for+AI%2FML+engineering+roles" alt="Typing SVG" />
+<a href="https://my-portfolio-nine-pied-83.vercel.app">
+  <img src="./assets/header.svg" width="100%" alt="Aditya Vijay Kumar — I build intelligent systems." />
 </a>
 
-<br/><br/>
-
-<img src="https://img.shields.io/badge/-Mumbai%2C_India-1a1a1a?style=for-the-badge&logo=googlemaps&logoColor=A78BFA&labelColor=1a1a1a" />
-<a href="https://www.linkedin.com/in/aditya-vijay-kumar-6a83b7370"><img src="https://img.shields.io/badge/-LinkedIn-1a1a1a?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=1a1a1a" /></a>
-<a href="mailto:avkad3@gmail.com"><img src="https://img.shields.io/badge/-Email-1a1a1a?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=1a1a1a" /></a>
-<a href="https://github.com/avkad3"><img src="https://img.shields.io/badge/-GitHub-1a1a1a?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a" /></a>
-
-<br/><br/>
-
-<img src="https://raw.githubusercontent.com/avkad3/avkad3/main/car_ascii.svg" width="100%" />
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
-  <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
-</picture>
-
-<br/>
-
-## <picture><source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30"><img width="30" src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png"></picture> About Me
-
-</div>
+<p align="center">
+  <a href="https://my-portfolio-nine-pied-83.vercel.app"><img src="https://img.shields.io/badge/Portfolio-ADITYA.OS-3DF2A6?style=for-the-badge&labelColor=080808" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/aditya-vijay-kumar-6a83b7370"><img src="https://img.shields.io/badge/LinkedIn-Connect-3DF2A6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=080808" alt="LinkedIn" /></a>
+  <a href="mailto:avkad3@gmail.com"><img src="https://img.shields.io/badge/Email-avkad3%40gmail.com-3DF2A6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=080808" alt="Email" /></a>
+  <a href="https://pypi.org/project/pycodeatlas/"><img src="https://img.shields.io/pypi/v/pycodeatlas?style=for-the-badge&label=pycodeatlas&logo=pypi&logoColor=white&labelColor=080808&color=3DF2A6" alt="pycodeatlas on PyPI" /></a>
+  <a href="https://doi.org/10.5281/zenodo.21477811"><img src="https://img.shields.io/badge/Zenodo-10.5281%2Fzenodo.21477811-3DF2A6?style=for-the-badge&logo=zenodo&logoColor=white&labelColor=080808" alt="RCAE on Zenodo" /></a>
+</p>
 
 ```yaml
-role: AI/ML & Backend Engineer
-education: B.E. Computer Engineering (AI & ML), Pillai College of Engineering — 2023–2027
-focus: [LLM systems, RAG pipelines, distributed backend, reinforcement learning]
-currently_exploring: [LangGraph multi-agent systems, MCP, orbital mechanics + RL]
-looking_for: AI/ML engineering roles — Mumbai / Pune / Remote
+whoami:      Aditya Vijay Kumar — AI/ML and backend engineering student, Mumbai
+ships:       Python and Go systems — LLM and RAG pipelines, forecasting,
+             static analysis tooling and real-time web apps
+education:   B.E. Computer Engineering (AI & ML), Pillai College of Engineering, Panvel — 2023–2027
+published:   pycodeatlas on PyPI · RCAE algorithm on Zenodo (CERN)
+portfolio:   https://my-portfolio-nine-pied-83.vercel.app   # press Ctrl/⌘ K, try `sudo hire aditya`
 ```
 
-<br/>
+### `> impact`
 
-<div align="center">
+<img src="./assets/impact.svg" width="100%" alt="34,000+ product-plant series forecast · 22% stock-out reduction · 94% semantic accuracy · 30% fewer overbooking incidents" />
 
-## <picture><source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="30"><img width="30" src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif"></picture> Featured Work
+<sub>Measured on systems I built as an AI/ML & Data Science Intern at SAVIC Technologies (June – July 2026).</sub>
+
+### `> systems --built`
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🕸️ ContextMesh
-**Offline-first P2P mesh chat, built in Go**
-Real-time messaging, offline sync, multi-hop mesh networking, E2E encryption, conflict-free sync.
-<br/>`Go` `WebSockets` `PostgreSQL` `Redis` `Docker`
+**[PyCodeAtlas](https://github.com/avkad3/CodeAtlas)** · published on PyPI<br/>
+Static analysis CLI that maps a codebase's dependency graph, classifies dead code as unused, test-only or uncovered, and shows what breaks if you delete a function or module. Runtime tracing via `sys.settrace`; understands Django, Flask and FastAPI routes.<br/>
+<sub>`Python` `AST` `NetworkX` `D3.js` `SQLite` `Click`</sub><br/>
+<sub>[case study](https://my-portfolio-nine-pied-83.vercel.app/projects/pycodeatlas) · [pypi](https://pypi.org/project/pycodeatlas/) · `pip install pycodeatlas`</sub>
 
 </td>
 <td width="50%" valign="top">
 
-### 🧬 NeuralScript
-**Custom AI domain-specific language**
-Python-like DSL abstracting NN training, RAG pipelines, LoRA fine-tuning, with built-in `think` blocks.
-<br/>`Python` `Custom Parser`
+**[Google Maps Competitor Update Intelligence](https://github.com/avkad3/Google_Maps_Competitor_Update_Intelligence)**<br/>
+Scrapes competitors' Google Maps updates with Selenium, de-duplicates them by fingerprint, classifies them with LLMs (four providers + offline fallback), charts topic trends and drafts new posts.<br/>
+<sub>`Python` `Flask` `Selenium` `SQLite` `Gemini` `Groq` `Docker`</sub><br/>
+<sub>[case study](https://my-portfolio-nine-pied-83.vercel.app/projects/maps-competitor-intelligence)</sub>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🛰️ Orbital Maneuver RL
-**PPO agent for fuel-efficient orbital transfers**
-Custom Gymnasium env — beat classical Hohmann transfer by 12% fuel efficiency over 500K training steps.
-<br/>`Python` `Gymnasium` `Stable Baselines3` `PPO`
+**[CMPIS — Construction Material Price Intelligence](https://github.com/avkad3/CMPIS-Construction-Material-Price-Intelligence-System)**<br/>
+Compares vendor quotes against six months of price history and flags each item green, yellow or red. Parses purchase orders and fuzzy-matches line items to the catalog.<br/>
+<sub>`FastAPI` `Streamlit` `SQLAlchemy` `RapidFuzz` `Plotly`</sub><br/>
+<sub>[case study](https://my-portfolio-nine-pied-83.vercel.app/projects/cmpis)</sub>
 
 </td>
 <td width="50%" valign="top">
 
-### 📊 Demand Forecasting Platform
-**Multi-horizon forecasting at scale**
-Confidence-interval forecasting across 34,000+ product-plant series, cutting stock-out rates by 22%.
-<br/>`TFT` `LightGBM` `PyTorch Forecasting` `Streamlit`
+**[ASCII Lab](https://github.com/avkad3/ASCII-Lab)** · live<br/>
+Images, video and live webcam rendered as ASCII with 5 rendering modes, Floyd-Steinberg / Atkinson / ordered dithering and per-character colour. Dockerised, tested with pytest.<br/>
+<sub>`FastAPI` `OpenCV` `NumPy` `Pillow` `pytest` `Docker`</sub><br/>
+<sub>[live demo](https://ascii-lab.onrender.com/) · [case study](https://my-portfolio-nine-pied-83.vercel.app/projects/ascii-lab)</sub>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🔍 PyCodeAtlas
-**Published on PyPI**
-Static code analysis CLI — dependency graphs and dead-code detection via Python AST + NetworkX.
-<br/>`Python` `AST` `NetworkX` `SQLite`
+**[Mini Order Fulfillment System](https://github.com/avkad3/mini-order-fulfillment-system)**<br/>
+SAP Order-to-Cash in miniature: customers upload POs (Excel/PDF), suppliers approve, reject or partially approve, and approved orders become sales orders that reserve inventory. Role-based JWT auth.<br/>
+<sub>`React` `TypeScript` `FastAPI` `SQLAlchemy` `Alembic` `JWT`</sub><br/>
+<sub>[case study](https://my-portfolio-nine-pied-83.vercel.app/projects/mini-order-fulfillment)</sub>
 
 </td>
 <td width="50%" valign="top">
 
-### 🤖 GR-IR Reconciliation QA Agent
-**RAG-based QA, 94% semantic accuracy**
-ChromaDB + Azure OpenAI system answering GR-IR reconciliation questions.
-<br/>`FastAPI` `Azure OpenAI` `LangChain` `ChromaDB`
+**[Loan Eligibility Prediction](https://github.com/avkad3/loan-eligibility-prediction)** · live<br/>
+MLOps around a Random Forest: MLflow tracking, DVC data versioning, SHAP + LIME explanations, a Fairlearn audit, a FastAPI service and CI on every push.<br/>
+<sub>`scikit-learn` `MLflow` `DVC` `SHAP` `FastAPI` `Streamlit`</sub><br/>
+<sub>[live app](https://loan-eligibility-prediction-dfpa88fchykapafeu7keqc.streamlit.app/) · [case study](https://my-portfolio-nine-pied-83.vercel.app/projects/loan-eligibility)</sub>
 
 </td>
 </tr>
 <tr>
-<td colspan="2" align="center">
+<td width="50%" valign="top">
 
-### 🍽️ Restaurant Reservation System + RCAE
-AI-assisted reservation platform with a **Reservation Conflict Anticipation Engine** — cut overbooking incidents by 30%. RCAE is [published on Zenodo (CERN)](https://doi.org/10.5281/zenodo.21477811).
-<br/>`FastAPI` `React` `SQLite`
+**[RCAE — Reservation Conflict Anticipation Engine](https://github.com/avkad3/RCAE-Reservation-Conflict-Anticipation-Engine)** · published on Zenodo<br/>
+Scores a booking on turnover clustering, cascade risk, kitchen load and dead time — the engine behind a reservation platform that cut overbooking incidents by 30%.<br/>
+<sub>`Python` `FastAPI` `React` `SQLite`</sub><br/>
+<sub>[DOI](https://doi.org/10.5281/zenodo.21477811) · [case study](https://my-portfolio-nine-pied-83.vercel.app/projects/rcae-reservations)</sub>
+
+</td>
+<td width="50%" valign="top">
+
+**[Waste Image Classifier](https://github.com/avkad3/Waste-Image-Classifier)**<br/>
+Sorts waste photos into six material classes — a custom CNN baseline, then MobileNetV2 transfer learning — served in a Streamlit app.<br/>
+<sub>`TensorFlow` `MobileNetV2` `scikit-learn` `Streamlit`</sub><br/>
+<sub>[case study](https://my-portfolio-nine-pied-83.vercel.app/projects/waste-classifier)</sub>
 
 </td>
 </tr>
 </table>
 
-<br/>
+<sub>Also: **BuildVault-AI** — business management system for builders and construction firms, in production use by a customer (private repository).</sub>
 
-## <picture><source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="30"><img width="30" src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif"></picture> Tech Stack
+### `> experience`
 
-<table>
-<tr><td align="center" width="140"><b>Languages</b></td><td><img src="https://skillicons.dev/icons?i=python,go,mysql" /></td></tr>
-<tr><td align="center"><b>LLMs & GenAI</b></td><td><img src="https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square" /> <img src="https://img.shields.io/badge/-LangGraph-1C3C3C?style=flat-square" /> <img src="https://img.shields.io/badge/-HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" /> <img src="https://img.shields.io/badge/-Ollama-000000?style=flat-square" /> <img src="https://img.shields.io/badge/-RAG-A78BFA?style=flat-square" /> <img src="https://img.shields.io/badge/-ChromaDB-6E56CF?style=flat-square" /> <img src="https://img.shields.io/badge/-FAISS-4B5563?style=flat-square" /> <img src="https://img.shields.io/badge/-MCP-000000?style=flat-square" /></td></tr>
-<tr><td align="center"><b>Backend & APIs</b></td><td><img src="https://skillicons.dev/icons?i=fastapi,go" /> <img src="https://img.shields.io/badge/-WebSockets-010101?style=flat-square" /> <img src="https://img.shields.io/badge/-SQLAlchemy-D71F00?style=flat-square" /></td></tr>
-<tr><td align="center"><b>Databases</b></td><td><img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,sqlite" /></td></tr>
-<tr><td align="center"><b>Cloud, DevOps & MLOps</b></td><td><img src="https://skillicons.dev/icons?i=docker,azure,git,githubactions" /> <img src="https://img.shields.io/badge/-Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white" /></td></tr>
-<tr><td align="center"><b>Data & Visualization</b></td><td><img src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/-Polars-CD792C?style=flat-square" /> <img src="https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square" /> <img src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" /></td></tr>
-</table>
+| | |
+|---|---|
+| **SAVIC Technologies** · AI/ML & Data Science Intern<br/><sub>Jun – Jul 2026</sub> | Demand forecasting across 34,000+ series (−22% stock-outs) · RAG QA agent for GR-IR reconciliation (94% semantic accuracy) · reservation platform + RCAE (−30% overbooking) |
+| **Suraj Homes** · Project Management Intern<br/><sub>Dec 2025 – Jan 2026</sub> | Residential project timelines, contractor and vendor coordination, construction and quality-control workflows |
+| **Globe Infra Developers** · Business Operations Intern<br/><sub>Jun – Jul 2025</sub> | Operations data and reporting in Excel, coordination with external stakeholders |
 
-<br/>
+### `> stack`
 
-## <picture><source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="30"><img width="30" src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif"></picture> GitHub Stats
+<p>
+  <img src="https://skillicons.dev/icons?i=python,go,fastapi,flask,postgres,redis,sqlite&theme=dark" alt="Python, Go, FastAPI, Flask, PostgreSQL, Redis, SQLite" /><br/>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,react,ts&theme=dark" alt="PyTorch, TensorFlow, scikit-learn, OpenCV, React, TypeScript" /><br/>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,azure&theme=dark" alt="Docker, Git, GitHub, GitHub Actions, Azure" />
+</p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=avkad3&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=avkad3&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=6d28d9&icon_color=6d28d9&text_color=24292f" />
-  <img src="https://github-readme-stats.vercel.app/api?username=avkad3&show_icons=true&theme=radical&hide_border=true" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=avkad3&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=avkad3&layout=compact&theme=default&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avkad3&layout=compact&theme=radical&hide_border=true" />
-</picture>
+<sub>**LLM / GenAI** — LangChain · LangGraph · RAG · ChromaDB · FAISS · Azure OpenAI · Hugging Face · Ollama · MCP · prompt engineering<br/>
+**ML / Data** — PyTorch Forecasting (TFT) · LightGBM · Stable Baselines3 · Gymnasium · Pandas · NumPy · NetworkX · Plotly · Streamlit<br/>
+**Backend** — REST APIs · WebSockets · SQLAlchemy · **Tools** — pytest · CI/CD · Render</sub>
 
-<br/>
+### `> publications && certifications`
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=avkad3&theme=radical&hide_border=true&background=0d1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=avkad3&theme=default&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=avkad3&theme=radical&hide_border=true" />
-</picture>
+- **Reservation Conflict Anticipation Engine (RCAE)** — Zenodo (CERN), [doi:10.5281/zenodo.21477811](https://doi.org/10.5281/zenodo.21477811)
+- **pycodeatlas** — [PyPI](https://pypi.org/project/pycodeatlas/)
+- Google DeepMind AI Research Foundations · NLP on Google Cloud · Transformer Models and BERT · Anthropic AI Fluency Framework & Foundations
 
-<br/><br/>
+### `> languages`
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=avkad3&theme=react-dark&hide_border=true&bg_color=0d1117&color=A78BFA&line=A78BFA&point=ffffff" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=avkad3&theme=minimal&hide_border=true" />
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=avkad3&theme=react-dark&hide_border=true" />
-</picture>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avkad3&layout=compact&hide=html,css,mako,go,dockerfile&hide_border=true&bg_color=080808&title_color=3DF2A6&text_color=c9d1d9&border_radius=12&card_width=360" alt="Top languages across public repositories" />
 
-<br/>
+---
 
-## <picture><source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="30"><img width="30" src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif"></picture> Publications & Certifications
-
-</div>
-
-- 🏅 **RCAE** — published on Zenodo (CERN) — [DOI: 10.5281/zenodo.21477811](https://doi.org/10.5281/zenodo.21477811)
-- 📦 **pycodeatlas** — published on PyPI
-- 🎓 Google DeepMind AI Research Foundations
-- 🎓 NLP on Google Cloud
-- 🎓 Transformer Models and BERT
-- 🎓 Anthropic AI Fluency Framework & Foundations
-
-<br/>
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
-</picture>
-
-</div>
+```console
+$ sudo hire aditya
+✓ Request accepted. Opening contact channel... → avkad3@gmail.com
+```

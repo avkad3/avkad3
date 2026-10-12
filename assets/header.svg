@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" role="img" aria-labelledby="t d">
+  <title id="t">Aditya Vijay Kumar — I build intelligent systems.</title>
+  <desc id="d">AI/ML engineer, backend engineer and GenAI developer based in Mumbai, India.</desc>
+  <defs>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity="0.035"/>
+    </pattern>
+    <radialGradient id="fade" cx="78%" cy="45%" r="60%">
+      <stop offset="0" stop-color="#fff" stop-opacity="1"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </radialGradient>
+    <mask id="gridmask"><rect width="1200" height="400" fill="url(#fade)"/></mask>
+    <linearGradient id="edge" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="0" stop-color="#3DF2A6" stop-opacity=".6"/>
+      <stop offset="1" stop-color="#5AB8FF" stop-opacity=".4"/>
+    </linearGradient>
+    <style>
+      .mono { font-family: 'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace; }
+      .sans { font-family: 'Space Grotesk', 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif; }
+      .dim { fill: #5a5a5a; }
+      .muted { fill: #8a8a8a; }
+      .fg { fill: #f5f5f5; }
+      .accent { fill: #3DF2A6; }
+      .pulse { animation: pulse 2.2s ease-in-out infinite; }
+      @keyframes pulse { 0%,100% { opacity: 1 } 50% { opacity: .3 } }
+      .line { opacity: 0; animation: rise .9s cubic-bezier(.16,1,.3,1) forwards; }
+      .l1 { animation-delay: .1s } .l2 { animation-delay: .22s } .l3 { animation-delay: .34s } .l4 { animation-delay: .6s }
+      @keyframes rise { from { opacity: 0; transform: translateY(14px) } to { opacity: 1; transform: none } }
+      .edge { stroke-dasharray: 6 6; animation: flow 1.6s linear infinite; }
+      @keyframes flow { to { stroke-dashoffset: -24 } }
+      .node rect { fill: #0b0b0b; stroke: #2c2c2c; }
+      .node.hot rect { stroke: #3DF2A6; stroke-opacity: .7; }
+      .cursor { animation: blink 1.1s step-end infinite; }
+      @keyframes blink { 50% { opacity: 0 } }
+      @media (prefers-reduced-motion: reduce) { * { animation: none !important; opacity: 1 !important; } }
+    </style>
+  </defs>
+
+  <rect width="1200" height="400" rx="14" fill="#080808"/>
+  <rect width="1200" height="400" rx="14" fill="url(#grid)" mask="url(#gridmask)"/>
+  <rect x=".5" y=".5" width="1199" height="399" rx="13.5" fill="none" stroke="#222"/>
+
+  <!-- top bar -->
+  <circle cx="52" cy="44" r="4.5" class="accent pulse"/>
+  <text x="66" y="49" class="mono fg" font-size="14" letter-spacing="2.5">ADITYA<tspan class="accent">.</tspan>OS</text>
+  <g class="mono" font-size="11" letter-spacing="1.8">
+    <text x="760" y="40" class="dim">SYSTEM STATUS</text>
+    <circle cx="764" cy="54" r="3" class="accent pulse"/>
+    <text x="774" y="58" class="fg">ONLINE</text>
+    <text x="920" y="40" class="dim">LOCATION</text>
+    <text x="920" y="58" class="fg">MUMBAI, INDIA</text>
+  </g>
+
+  <!-- headline -->
+  <g class="sans" font-weight="700" letter-spacing="-2">
+    <text x="48" y="150" font-size="70" class="fg line l1">I BUILD</text>
+    <text x="48" y="222" font-size="70" fill="none" stroke="#f5f5f5" stroke-width="1.4" class="line l2">INTELLIGENT</text>
+    <text x="48" y="294" font-size="70" class="fg line l3">SYSTEMS<tspan class="accent">.</tspan></text>
+  </g>
+
+  <line x1="48" x2="1152" y1="332" y2="332" stroke="#222"/>
+  <g class="mono line l4" font-size="13" letter-spacing="1.6">
+    <text x="48" y="364" class="fg">ADITYA VIJAY KUMAR</text>
+    <text x="250" y="364" class="muted">/ AI/ML ENGINEER · BACKEND ENGINEER · GENAI DEVELOPER</text>
+    <text x="1152" y="364" text-anchor="end" class="muted">&gt; currently: building intelligent systems<tspan class="accent cursor">_</tspan></text>
+  </g>
+
+  <!-- system diagram -->
+  <g class="mono" font-size="10.5" letter-spacing="1.6" text-anchor="middle">
+    <text x="950" y="96" class="dim" letter-spacing="3">AI SYSTEM</text>
+    <path class="edge" d="M950 132 V156 H840 V176 M950 156 V176 M950 156 H1060 V176" fill="none" stroke="url(#edge)"/>
+    <path class="edge" d="M840 202 V232 M950 202 V232 M1060 202 V232" fill="none" stroke="url(#edge)"/>
+    <path class="edge" d="M840 258 V274 H1060 V258 M950 258 V290" fill="none" stroke="url(#edge)"/>
+
+    <g class="node"><rect x="915" y="108" width="70" height="26" rx="3"/><text x="950" y="125" class="muted">MODEL</text></g>
+    <g class="node hot"><rect x="810" y="176" width="60" height="26" rx="3"/><text x="840" y="193" class="fg">RAG</text></g>
+    <g class="node"><rect x="925" y="176" width="50" height="26" rx="3"/><text x="950" y="193" class="muted">ML</text></g>
+    <g class="node"><rect x="1030" y="176" width="60" height="26" rx="3"/><text x="1060" y="193" class="muted">API</text></g>
+    <g class="node"><rect x="788" y="232" width="104" height="26" rx="3"/><text x="840" y="249" class="muted">VECTOR DB</text></g>
+    <g class="node hot"><rect x="888" y="232" width="124" height="26" rx="3"/><text x="950" y="249" class="fg">FORECASTING</text></g>
+    <g class="node"><rect x="1008" y="232" width="104" height="26" rx="3"/><text x="1060" y="249" class="muted">BACKEND</text></g>
+    <g class="node hot"><rect x="896" y="290" width="108" height="26" rx="3"/><circle cx="910" cy="303" r="3" class="accent pulse"/><text x="956" y="307" class="fg">DEPLOYED</text></g>
+  </g>
+</svg>
